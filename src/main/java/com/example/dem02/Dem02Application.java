@@ -1,5 +1,6 @@
 package com.example.dem02;
 
+
 import com.example.dem02.User;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
